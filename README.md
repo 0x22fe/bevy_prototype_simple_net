@@ -11,7 +11,7 @@ As it is not on [crates.io](https://crates.io), to install it follow the directi
 You can then import it with `use bevy_prototype_simple_net;` and start using it. For more information and to see it in action, check out the [examples](./examples/README.md) and view/run an example (eg. `cargo run --example net_server`).
 
 # Contributing
-If you have any suggestions, create an issue and I'll take a look at it. If you wish to contribute, simply create a pull request and I'll review it. If you feel like you have contributed a significant amount of code, feel free to add yourself to the authors list in the Cargo.toml.
+If you have any suggestions, create an issue and I'll take a look at it. If you wish to contribute, simply create a pull request and I'll review it. If you feel like you have contributed a significant amount of code, feel free to add yourself to the authors list in the `Cargo.toml` file.
 
 # License
 Licensed under the [MIT License](./LICENSE).
