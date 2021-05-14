@@ -1,7 +1,7 @@
-**Project has been archived.**
+**Development has stopped and the project has been archived.**
 
 # Bevy (Prototype) Simple Networking
-This crate provides basic network functionality for the Bevy engine. It is in a prototype that is relatively easy to use and has been tested to work.
+This crate provides basic network functionality for the Bevy engine. It is a prototype that is relatively easy to use and has been tested to work.
 
 It currently implements a **TCP-based client and server** as well as a **UDP-based client and server**.
 
